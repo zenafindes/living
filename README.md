@@ -1,2 +1,2 @@
-# living
-every day project
+# Living in Green
+every day project that matters
